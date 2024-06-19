@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Двумерные массивы c#", "Двумерные массивы c#.csproj", "{9C12A075-22C7-4025-9243-47662D589FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C12A075-22C7-4025-9243-47662D589FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C12A075-22C7-4025-9243-47662D589FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C12A075-22C7-4025-9243-47662D589FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C12A075-22C7-4025-9243-47662D589FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57960B65-9347-4205-A194-DC83B35B5F41}
+	EndGlobalSection
+EndGlobal

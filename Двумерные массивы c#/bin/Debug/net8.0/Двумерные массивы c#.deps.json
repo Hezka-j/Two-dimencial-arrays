@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Двумерные массивы c#/1.0.0": {
+        "runtime": {
+          "Двумерные массивы c#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Двумерные массивы c#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

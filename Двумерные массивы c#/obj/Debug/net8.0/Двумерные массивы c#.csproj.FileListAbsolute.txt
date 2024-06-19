@@ -1,0 +1,14 @@
+D:\Проекты\Двумерные массивы c#\bin\Debug\net8.0\Двумерные массивы c#.exe
+D:\Проекты\Двумерные массивы c#\bin\Debug\net8.0\Двумерные массивы c#.deps.json
+D:\Проекты\Двумерные массивы c#\bin\Debug\net8.0\Двумерные массивы c#.runtimeconfig.json
+D:\Проекты\Двумерные массивы c#\bin\Debug\net8.0\Двумерные массивы c#.dll
+D:\Проекты\Двумерные массивы c#\bin\Debug\net8.0\Двумерные массивы c#.pdb
+D:\Проекты\Двумерные массивы c#\obj\Debug\net8.0\Двумерные массивы c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Двумерные массивы c#\obj\Debug\net8.0\Двумерные массивы c#.AssemblyInfoInputs.cache
+D:\Проекты\Двумерные массивы c#\obj\Debug\net8.0\Двумерные массивы c#.AssemblyInfo.cs
+D:\Проекты\Двумерные массивы c#\obj\Debug\net8.0\Двумерные массивы c#.csproj.CoreCompileInputs.cache
+D:\Проекты\Двумерные массивы c#\obj\Debug\net8.0\Двумерные массивы c#.dll
+D:\Проекты\Двумерные массивы c#\obj\Debug\net8.0\refint\Двумерные массивы c#.dll
+D:\Проекты\Двумерные массивы c#\obj\Debug\net8.0\Двумерные массивы c#.pdb
+D:\Проекты\Двумерные массивы c#\obj\Debug\net8.0\Двумерные массивы c#.genruntimeconfig.cache
+D:\Проекты\Двумерные массивы c#\obj\Debug\net8.0\ref\Двумерные массивы c#.dll
